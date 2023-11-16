@@ -1,2 +1,2 @@
 # AirlineEntry
-This repository contains my thesis, code and data for this airline entry project.
+This repository contains code and data for my thesis "Multiple Equilibria of Aggregated Players in Airline Markets"
